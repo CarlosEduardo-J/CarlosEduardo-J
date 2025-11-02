@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/CarlosEduardo-J?v=4" width="150px" alt="Foto de Perfil do Carlos Eduardo" />
   <h1>Hello, I'm Carlos Eduardo!</h1>
 </div>
 
@@ -23,7 +22,7 @@
 
 ---
 <div align="center">
-  <img src="https://image.pollinations.ai/prompt/illustration%20of%20a%20person%20at%20a%20desk%20working%20on%20two%20monitors%20with%20data%20visualizations%20and%20code%20on%20screen%2C%20wearing%20headphones%2C%20dark%20theme%2C%20vector%20art%2C%20github%20readme%20style?width=800&height=400&seed=42" alt="Ilustração de um programador de dados" style="width:100%; max-width:700px; margin-top: 20px; margin-bottom: 20px;"/>
+  <img src="https://image.pollinations.ai/prompt/abstract%20data%20visualization%20network%20with%20glowing%20nodes%20and%20connecting%20lines%2C%20dark%20blue%20and%20purple%20gradient%20colors%2C%20futuristic%2C%20clean%20vector%20art%20style%2C%20github%20readme%20aesthetic?width=800&height=400&seed=123" alt="Visualização abstrata de dados" style="width:100%; max-width:700px; margin-top: 20px; margin-bottom: 20px;"/>
 </div>
 
 ---
@@ -49,7 +48,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
 ---
