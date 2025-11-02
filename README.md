@@ -5,31 +5,31 @@
 
 ---
 
-## 💻 Minha Missão (My Focus)
+## 💻 Minha Missão
 
-* 🎓 **Estudante de [Seu Curso ou Área de Foco, ex: Ciência de Dados, Engenharia de Software]**
+* 🎓 **Estudante de Análise e Desenvolvimento de Sistemas.**
 * 📊 **Focado em Análise de Dados, Linguagem SQL e Modelagem Estatística.**
 * 🐍 **Construindo projetos em Python (Pandas, NumPy, Scikit-learn) para o meu portfólio.**
 * 📈 **Apaixonado por transformar dados brutos em *insights* acionáveis e visualizações impactantes.**
 
 ---
 
-## 🧠 What I'm Learning (O Que Estou Aprendendo)
+## 🧠 What I'm Learning 
 
 * ✨ **Estatística Aplicada a Dados e Testes A/B**
 * 🧹 **Limpeza e Pré-processamento de Dados (Data Wrangling) com Pandas**
 * ☁️ **Introdução ao Data Engineering e pipelines ETL**
-* ⚙️ **Técnicas de Visualização de Dados (Matplotlib, Seaborn, Tableau/Power BI)**
+* ⚙️ **Técnicas de Visualização de Dados (Matplotlib, Seaborn, Power BI)**
 
 ---
 
-## 🛠️ My Favorite Tools (Minhas Ferramentas Favoritas)
+## 🛠️ My Favorite Tools 
 
 ### Linguagens e Bancos de Dados
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="Power BI"/>
 </p>
 
 ### Bibliotecas de Data Science
@@ -49,15 +49,15 @@
 
 ---
 
-## 🌟 A Bit About Me (Um Pouco Sobre Mim)
+## 🌟 A Bit About Me 
 
-> Fora do universo dos dados, sou **[Seu Hobby/Paixão, ex: um entusiasta de café, corredor de rua, leitor ávido de fantasia]**. Acredito que a **Análise de Dados** é uma fusão de **curiosidade e lógica**; cada *dataset* é uma história esperando para ser contada, e a beleza está em desvendá-la de forma clara e objetiva.
+> Fora do universo dos dados, sou **um entusiasta de café e um amante de séries de ficção**. Acredito que a **Análise de Dados** é uma fusão de **curiosidade e lógica**; cada *dataset* é uma história esperando para ser contada, e a beleza está em desvendá-la de forma clara e objetiva.
 
 ---
 
 ## 🔗 Connect with me! (Conecte-se comigo!)
 
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([ADICIONE_AQUI_SEU_LINK_DO_LINKEDIN_QUANDO_PRONTO])
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/carloseduardojaquis/)
 * [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlos.jaquis.tech@gmail.com)
 
 ---
