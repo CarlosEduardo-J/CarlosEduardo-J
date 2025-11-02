@@ -23,6 +23,12 @@
 
 ---
 
+<div align="center">
+  <img src="https://image.pollinations.ai/prompt/illustration%20of%20a%20person%20at%20a%20desk%20working%20on%20two%20monitors%20with%20data%20visualizations%20and%20code%20on%20screen%2C%20wearing%20headphones%2C%20dark%20theme%2C%20vector%20art%2C%20github%20readme%20style?width=800&height=400&seed=42" alt="Ilustração de um programador de dados" style="width:100%; max-width:700px; margin-top: 20px; margin-bottom: 20px;"/>
+</div>
+
+---
+
 ## 🛠️ My Favorite Tools (Minhas Ferramentas Favoritas)
 
 ### Linguagens e Bancos de Dados
