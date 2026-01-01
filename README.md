@@ -80,6 +80,14 @@
 - KPIs and visual insights to support decision-making  
 🔗 [Repository](https://github.com/CarlosEduardo-J/analise-financeira-powerbi)
 
+🔹 **Sales Dashboard — SuperStore Dataset**  
+*Power BI • Data Cleaning • KPIs • Visual Storytelling*  
+- Sales performance analysis using the SuperStore dataset  
+- KPIs such as Total Sales, Profit and Profit Margin  
+- Analysis by product, category, region and country  
+- Business interpretation of high profit margins and negative profits  
+🔗 [Repository](https://github.com/CarlosEduardo-J/dashboard-vendas-power-bi)
+
 ---
 
 ## 🛠️ Tools & Technologies
