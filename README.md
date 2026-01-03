@@ -70,6 +70,13 @@
 - Structured queries for exploratory and descriptive analysis  
 🔗 [Repository](https://github.com/CarlosEduardo-J/analise-dados-sql)
 
+🔹 **Marketing Data Analysis with SQL**  
+*SQL • Marketing Analytics • Business Metrics*  
+- Analysis of marketing campaigns and customer behavior  
+- Metrics related to performance, engagement and conversion  
+- Queries designed to support marketing and business decisions  
+🔗 [Repository](https://github.com/CarlosEduardo-J/analise-marketing-sql)
+
 ---
 
 ### 📊 Power BI — Dashboards
