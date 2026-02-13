@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hello, I'm Carlos Eduardo 👋</h1>
+  <h1>Hello, I'm Carlos Jaquis 👋</h1>
   <h3>Data Analytics Student | Python • SQL • Power BI</h3>
 </div>
 
