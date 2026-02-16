@@ -7,10 +7,8 @@
 
 ## 💻 About Me
 
-🎓 **Student of Systems Analysis and Development**  
-📊 **Aspiring Data Analyst**, focused on transforming data into insights to support business decisions  
-🐍 Hands-on experience building **data analysis projects using Python (Pandas, NumPy)**  
-📈 Strong interest in **data-driven storytelling and clear data visualization**
+🎓 **Student of Systems Analysis and Development** 📊 **Aspiring Data Analyst**, focused on transforming data into insights to support business decisions  
+🐍 Hands-on experience building **data analysis projects using Python (Pandas, NumPy)** 📈 Strong interest in **data-driven storytelling and clear data visualization**
 
 ---
 
@@ -35,27 +33,19 @@
 
 ### 🐍 Python — Data Analysis
 
-🔹 **E-commerce Data Analysis**  
-*Python • Pandas • Data Cleaning • EDA*  
-- Analysis of sales, customers and revenue behavior  
+🔹 **E-commerce Data Analysis** *Python • Pandas • Data Cleaning • EDA* - Analysis of sales, customers and revenue behavior  
 - Business-oriented insights from raw data  
 🔗 [Repository](https://github.com/CarlosEduardo-J/analise-ecommerce)
 
-🔹 **Customer Churn Analysis**  
-*Python • Pandas • Data Analysis*  
-- Identification of churn patterns and customer behavior  
+🔹 **Customer Churn Analysis** *Python • Pandas • Data Analysis* - Identification of churn patterns and customer behavior  
 - Insights focused on customer retention  
 🔗 [Repository](https://github.com/CarlosEduardo-J/analise-churn-clientes)
 
-🔹 **Government Expenses Analysis**  
-*Python • Public Data • Data Analysis*  
-- Analysis of public spending and expense categories  
+🔹 **Government Expenses Analysis** *Python • Public Data • Data Analysis* - Analysis of public spending and expense categories  
 - Focus on transparency and data-driven insights  
 🔗 [Repository](https://github.com/CarlosEduardo-J/analise-despesas-governamentais)
 
-🔹 **Sales Performance Analysis**  
-*Python • Pandas • Data Visualization*  
-- Sales indicators, trends and performance metrics  
+🔹 **Sales Performance Analysis** *Python • Pandas • Data Visualization* - Sales indicators, trends and performance metrics  
 - Insights to support business decisions  
 🔗 [Repository](https://github.com/CarlosEduardo-J/analise-vendas)
 
@@ -63,16 +53,17 @@
 
 ### 🗄️ SQL — Data Analysis
 
-🔹 **SQL Data Analysis Project**  
-*SQL • Business Queries • KPIs*  
-- Analytical queries focused on business questions  
+🔹 **SQL Data Cleaning — World Layoffs** *SQL • Data Cleaning • Data Wrangling* - Standardizing data, handling null values and removing duplicates  
+- Transforming raw data into a clean format ready for analysis  
+- Use of CTEs and Windows Functions for data consistency  
+🔗 [Repository](https://github.com/CarlosEduardo-J/sql-data-cleaning-layoffs)
+
+🔹 **SQL Data Analysis Project** *SQL • Business Queries • KPIs* - Analytical queries focused on business questions  
 - Metrics such as revenue, order volume and ticket average  
 - Structured queries for exploratory and descriptive analysis  
 🔗 [Repository](https://github.com/CarlosEduardo-J/analise-dados-sql)
 
-🔹 **Marketing Data Analysis with SQL**  
-*SQL • Marketing Analytics • Business Metrics*  
-- Analysis of marketing campaigns and customer behavior  
+🔹 **Marketing Data Analysis with SQL** *SQL • Marketing Analytics • Business Metrics* - Analysis of marketing campaigns and customer behavior  
 - Metrics related to performance, engagement and conversion  
 - Queries designed to support marketing and business decisions  
 🔗 [Repository](https://github.com/CarlosEduardo-J/analise-marketing-sql)
@@ -81,15 +72,11 @@
 
 ### 📊 Power BI — Dashboards
 
-🔹 **Financial Analysis Dashboard**  
-*Power BI • Data Modeling • Business Insights*  
-- Interactive dashboard for financial analysis  
+🔹 **Financial Analysis Dashboard** *Power BI • Data Modeling • Business Insights* - Interactive dashboard for financial analysis  
 - KPIs and visual insights to support decision-making  
 🔗 [Repository](https://github.com/CarlosEduardo-J/analise-financeira-powerbi)
 
-🔹 **Sales Dashboard — SuperStore Dataset**  
-*Power BI • Data Cleaning • KPIs • Visual Storytelling*  
-- Sales performance analysis using the SuperStore dataset  
+🔹 **Sales Dashboard — SuperStore Dataset** *Power BI • Data Cleaning • KPIs • Visual Storytelling* - Sales performance analysis using the SuperStore dataset  
 - KPIs such as Total Sales, Profit and Profit Margin  
 - Analysis by product, category, region and country  
 - Business interpretation of high profit margins and negative profits  
