@@ -1,13 +1,12 @@
-<div align="center">
-  <h1>Olá, eu sou o Carlos Jaquis 👋</h1>
-  <h3>Estudante de Análise de Dados | Python • SQL • Power BI</h3>
-</div>
+# Analista de Dados | Python • SQL • Power BI 📊
+
+Graduando em ADS e focado em transformar dados brutos em insights estratégicos para apoiar decisões de negócio.
 
 ---
 
 ## 💻 Sobre Mim
 
-🎓 **Graduando em Análise e Desenvolvimento de Sistemas** 📊 **Aspirante a Analista de Dados**, focado em transformar dados brutos em insights estratégicos para apoiar decisões de negócio.  
+🎓 **Graduando em Análise e Desenvolvimento de Sistemas** 📊 **Analista de Dados em Formação**, focado em transformar dados brutos em insights estratégicos para apoiar decisões de negócio.  
 🐍 Experiência prática na construção de **projetos de análise de dados utilizando Python (Pandas e NumPy)**.  
 📈 Entusiasta de **Data-driven Storytelling** e visualização de dados clara, objetiva e eficiente.
 
