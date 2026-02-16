@@ -1,12 +1,13 @@
-# Analista de Dados | Python • SQL • Power BI 📊
-
-Graduando em ADS e focado em transformar dados brutos em insights estratégicos para apoiar decisões de negócio.
+<div align="center">
+  <h1>Olá, eu sou o Carlos Jaquis 👋</h1>
+  <h3>Estudante de Análise de Dados | Python • SQL • Power BI</h3>
+</div>
 
 ---
 
 ## 💻 Sobre Mim
 
-🎓 **Graduando em Análise e Desenvolvimento de Sistemas** 📊 **Analista de Dados em Formação**, focado em transformar dados brutos em insights estratégicos para apoiar decisões de negócio.  
+🎓 **Graduando em Análise e Desenvolvimento de Sistemas** 📊 **Aspirante a Analista de Dados**, focado em transformar dados brutos em insights estratégicos para apoiar decisões de negócio.  
 🐍 Experiência prática na construção de **projetos de análise de dados utilizando Python (Pandas e NumPy)**.  
 📈 Entusiasta de **Data-driven Storytelling** e visualização de dados clara, objetiva e eficiente.
 
@@ -59,6 +60,44 @@ Graduando em ADS e focado em transformar dados brutos em insights estratégicos 
 🔹 **Dashboard de Análise Financeira** *Data Modeling • Business Insights* Painel dinâmico para monitoramento de saúde financeira e suporte à tomada de decisão.  
 🔗 [Ver Repositório](https://github.com/CarlosEduardo-J/analise-financeira-powerbi)
 
+🔹 **Dashboard de Vendas (SuperStore)** *Storytelling • KPIs de Performance* Análise de lucro, margens e tendências por região, categoria e período temporal.  
+🔗 [Ver Repositório](https://github.com/CarlosEduardo-J/dashboard-vendas-power-bi)
+
+---
+
+## 🛠️ Ferramentas & Tecnologias
+
+### Linguagens & Bancos de Dados
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### Análise & Visualização de Dados
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
+
+---
+
+## 🎯 Objetivo de Carreira
+
+Busco oportunidades como **Estagiário ou Analista de Dados Júnior**, onde eu possa aplicar rigor analítico para gerar valor real e contínuo para a organização.
+
+---
+
+## 🔗 Vamos nos conectar?
+
+- [LinkedIn](https://www.linkedin.com/in/carloseduardojaquis/)
+- [E-mail](mailto:carlos.jaquis.tech@gmail.com)
+
+---
+
+<p align="center">
+  Feito com ❤️ por CarlosEduardo-J
+</p>
 🔹 **Dashboard de Vendas (SuperStore)** *Storytelling • KPIs de Performance* Análise de lucro, margens e tendências por região, categoria e período temporal.  
 🔗 [Ver Repositório](https://github.com/CarlosEduardo-J/dashboard-vendas-power-bi)
 
