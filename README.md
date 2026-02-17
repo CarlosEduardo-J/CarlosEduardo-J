@@ -47,8 +47,8 @@
 
 ### 🗄️ SQL — Análise de Dados
 
-🔹 **Limpeza de Dados (World Layoffs)** *SQL • Data Cleaning • Wrangling* Padronização de dados globais, tratamento de valores nulos e remoção de duplicatas utilizando **CTEs e Window Functions**.  
-🔗 [Ver Repositório](https://github.com/CarlosEduardo-J/sql-data-cleaning-layoffs)
+🔹 **Limpeza e Análise Exploratória (World Layoffs)** *SQL • Data Cleaning • EDA* Padronização de dados globais, tratamento de valores nulos e análise de insights utilizando **CTEs e Window Functions**.  
+🔗 [Ver Repositório](https://github.com/CarlosEduardo-J/sql-layoffs-cleaning-and-eda)
 
 🔹 **Análise de Marketing com SQL** *SQL • Marketing Analytics • KPIs* Consultas focadas em performance de campanhas, engajamento e taxas de conversão.  
 🔗 [Ver Repositório](https://github.com/CarlosEduardo-J/analise-marketing-sql)
