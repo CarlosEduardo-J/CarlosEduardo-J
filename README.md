@@ -47,6 +47,9 @@
 
 ### 🗄️ SQL — Análise de Dados
 
+🔹 **Análise de Dados Olist E-commerce** *SQL • Joins • Business Insights* Análise exploratória de dados de vendas, logística e comportamento de clientes utilizando o dataset Olist.  
+🔗 [Ver Repositório](https://github.com/CarlosEduardo-J/sql-olist-ecommerce-analysis)
+
 🔹 **Limpeza e Análise Exploratória (World Layoffs)** *SQL • Data Cleaning • EDA* Padronização de dados globais, tratamento de valores nulos e análise de insights utilizando **CTEs e Window Functions**.  
 🔗 [Ver Repositório](https://github.com/CarlosEduardo-J/sql-layoffs-cleaning-and-eda)
 
