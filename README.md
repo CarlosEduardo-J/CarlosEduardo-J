@@ -34,36 +34,44 @@
 
 ### 🐍 Python — Análise de Dados
 
-🔹 **Análise de Dados de E-commerce** *Python • Pandas • EDA* Limpeza e análise do comportamento de vendas, segmentação de clientes e evolução da receita.  
+🔹 **Análise de Dados de E-commerce** *Python • Pandas • EDA*  
+Limpeza e análise do comportamento de vendas, segmentação de clientes e evolução da receita.  
 🔗 [Ver Repositório](https://github.com/CarlosEduardo-J/analise-ecommerce)
 
-🔹 **Análise de Churn de Clientes** *Python • Pandas • Data Analysis* Identificação de padrões de cancelamento e análise de variáveis que impactam a retenção.  
+🔹 **Análise de Churn de Clientes** *Python • Pandas • Data Analysis*  
+Identificação de padrões de cancelamento e análise de variáveis que impactam a retenção.  
 🔗 [Ver Repositório](https://github.com/CarlosEduardo-J/analise-churn-clientes)
 
-🔹 **Análise de Despesas Governamentais** *Python • Dados Públicos • Transparência* Análise detalhada de gastos públicos e categorização de despesas para maior transparência.  
+🔹 **Análise de Despesas Governamentais** *Python • Dados Públicos • Transparência*  
+Análise detalhada de gastos públicos e categorização de despesas para maior transparência.  
 🔗 [Ver Repositório](https://github.com/CarlosEduardo-J/analise-despesas-governamentais)
 
 ---
 
 ### 🗄️ SQL — Análise de Dados
 
-🔹 **Análise de Dados Olist E-commerce** *SQL • Joins • Business Insights* Análise exploratória de dados de vendas, logística e comportamento de clientes utilizando o dataset Olist.  
+🔹 **Análise de Dados Olist E-commerce** *SQL • Joins • Business Insights*  
+Análise exploratória de dados de vendas, logística e comportamento de clientes utilizando o dataset Olist.  
 🔗 [Ver Repositório](https://github.com/CarlosEduardo-J/sql-olist-ecommerce-analysis)
 
-🔹 **Limpeza e Análise Exploratória (World Layoffs)** *SQL • Data Cleaning • EDA* Padronização de dados globais, tratamento de valores nulos e análise de insights utilizando **CTEs e Window Functions**.  
+🔹 **Limpeza e Análise Exploratória (World Layoffs)** *SQL • Data Cleaning • EDA*  
+Padronização de dados globais, tratamento de valores nulos e análise de insights utilizando **CTEs e Window Functions**.  
 🔗 [Ver Repositório](https://github.com/CarlosEduardo-J/sql-layoffs-cleaning-and-eda)
 
-🔹 **Análise de Marketing com SQL** *SQL • Marketing Analytics • KPIs* Consultas focadas em performance de campanhas, engajamento e taxas de conversão.  
+🔹 **Análise de Marketing com SQL** *SQL • Marketing Analytics • KPIs*  
+Consultas focadas em performance de campanhas, engajamento e taxas de conversão.  
 🔗 [Ver Repositório](https://github.com/CarlosEduardo-J/analise-marketing-sql)
 
 ---
 
 ### 📊 Power BI — Dashboards
 
-🔹 **Dashboard de Análise Financeira** *Data Modeling • Business Insights* Painel dinâmico para monitoramento de saúde financeira e suporte à tomada de decisão.  
-🔗 [Ver Repositório](https://github.com/CarlosEduardo-J/analise-financeira-powerbi)
+🔹 **Dashboard de Análise do Catálogo Netflix** *UI Design (Figma) • Data Modeling • ETL*  
+Painel com layout personalizado desenvolvido no Figma, focado na análise volumétrica, classificação indicativa e evolução histórica por décadas do catálogo.  
+🔗 [Ver Repositório](https://github.com/CarlosEduardo-J/netflix-catalog-analysis)
 
-🔹 **Dashboard de Vendas (SuperStore)** *Storytelling • KPIs de Performance* Análise de lucro, margens e tendências por região, categoria e período temporal.  
+🔹 **Dashboard de Vendas (SuperStore)** *Storytelling • KPIs de Performance*  
+Análise de lucro, margens e tendências por região, categoria e período temporal.  
 🔗 [Ver Repositório](https://github.com/CarlosEduardo-J/dashboard-vendas-power-bi)
 
 ---
