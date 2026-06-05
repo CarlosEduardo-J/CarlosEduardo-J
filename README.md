@@ -24,7 +24,7 @@
 <div align="center">
   <img src="https://image.pollinations.ai/prompt/illustration%20of%20a%20person%20at%20a%20desk%20working%20on%20two%20monitors%20with%20data%20visualizations%20and%20code%20on%20screen%2C%20wearing%20headphones%2C%20dark%20theme%2C%20vector%20art%2C%20github%20readme%20style?width=800&height=400&seed=42" 
        alt="Data analyst illustration" 
-       style="width:100%; max-width:700px; margin: 20px 0;"/>
+       style="width:100%; max-width:700px; margin: 20px 0 Shil;"/>
   <p><em>Transformando dados em valor através de análise e visualização</em></p>
 </div>
 
@@ -38,9 +38,9 @@
 Limpeza e análise do comportamento de vendas, segmentação de clientes e evolução da receita.  
 🔗 [Ver Repositório](https://github.com/CarlosEduardo-J/analise-ecommerce)
 
-🔹 **Análise de Churn de Clientes** *Python • Pandas • Data Analysis*  
-Identificação de padrões de cancelamento e análise de variáveis que impactam a retenção.  
-🔗 [Ver Repositório](https://github.com/CarlosEduardo-J/analise-churn-clientes)
+🔹 **Análise de Correlação de Filmes** *Python • Pandas • Data Analysis*  
+Identificação de padrões e correlações entre diferentes variáveis que impactam o sucesso e a receita de filmes.  
+🔗 [Ver Repositório](https://github.com/CarlosEduardo-J/movie-data-analysis)
 
 🔹 **Análise de Despesas Governamentais** *Python • Dados Públicos • Transparência*  
 Análise detalhada de gastos públicos e categorização de despesas para maior transparência.  
