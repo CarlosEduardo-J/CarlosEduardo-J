@@ -66,6 +66,10 @@ Consultas focadas em performance de campanhas, engajamento e taxas de conversão
 
 ### 📊 Power BI — Dashboards
 
+🔹 **Dashboard de People Analytics** *Power BI • Analytics • Métricas de RH*  
+Desenvolvimento de painel para análise estratégica de gestão de pessoas, cobrindo indicadores como turnover, absenteísmo e perfil demográfico.  
+🔗 [Ver Repositório](https://github.com/CarlosEduardo-J/dashboard-people-analytics)
+
 🔹 **Dashboard de Análise do Catálogo Netflix** *UI Design (Figma) • Data Modeling • ETL*  
 Painel com layout personalizado desenvolvido no Figma, focado na análise volumétrica, classificação indicativa e evolução histórica por décadas do catálogo.  
 🔗 [Ver Repositório](https://github.com/CarlosEduardo-J/netflix-catalog-analysis)
