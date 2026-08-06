@@ -19,18 +19,32 @@
 - 📐 **Estatística Aplicada** — Estatística descritiva, distribuições e fundamentos de testes A/B.  
 - 🧹 **Data Cleaning & Wrangling** — Tratamento de dados, gestão de outliers e integridade com Pandas.  
 - 🗄️ **SQL para Análise** — Queries avançadas focadas em extração de métricas e perguntas de negócio.  
-- 📈 **Data Visualization** — Dashboards interativos em Power BI e visualizações com **Matplotlib e Seaborn**.  
+- 📈 **Data Visualization** — Dashboards interativos em Power BI e visualizações com **Matplotlib, Seaborn e Plotly**.  
+- 🌐 **Consumo de API & Dados Geoespaciais** — Requisições HTTP, tratamento de erros, parsing de JSON e visualização com GeoJSON/mapas coropléticos.
 
 <div align="center">
   <img src="https://image.pollinations.ai/prompt/illustration%20of%20a%20person%20at%20a%20desk%20working%20on%20two%20monitors%20with%20data%20visualizations%20and%20code%20on%20screen%2C%20wearing%20headphones%2C%20dark%20theme%2C%20vector%20art%2C%20github%20readme%20style?width=800&height=400&seed=42" 
        alt="Data analyst illustration" 
-       style="width:100%; max-width:700px; margin: 20px 0 Shil;"/>
+       style="width:100%; max-width:700px; margin: 20px 0;"/>
   <p><em>Transformando dados em valor através de análise e visualização</em></p>
 </div>
 
 ---
 
-## 📂 Projetos em Destaque
+## ⭐ Projeto em Destaque
+
+### 📍 PIB per Capita dos Municípios do Paraná — Consumo de API + Análise Geoespacial
+*Python • API do IBGE • Pandas • Plotly • Mapas Coropléticos*
+
+Projeto do zero à visualização final: consumo direto da API pública do IBGE (SIDRA), cálculo de um indicador que não vem pronto na fonte (PIB per capita municipal), e investigação de uma pergunta própria sobre a economia da minha cidade, Maringá, frente à sua região e ao estado do Paraná.
+
+**Principal achado:** Maringá caiu do 31º para o 100º lugar no ranking estadual de PIB per capita entre 2012 e 2021 — mesmo crescendo 67% no período. Os municípios vizinhos cresceram 143% no mesmo intervalo, revelando um processo de aproximação econômica regional.
+
+🔗 [Ver Repositório](https://github.com/CarlosEduardo-J/analise-pib-per-capita-pr)
+
+---
+
+## 📂 Outros Projetos
 
 ### 🐍 Python — Análise de Dados
 
@@ -95,6 +109,7 @@ Análise de lucro, margens e tendências por região, categoria e período tempo
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-31363B?style=for-the-badge&logo=matplotlib&logoColor=white"/>
   <img src="https://img.shields.io/badge/Seaborn-44484C?style=for-the-badge&logo=seaborn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
 </p>
 
 ---
