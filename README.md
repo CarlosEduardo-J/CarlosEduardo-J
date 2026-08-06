@@ -50,7 +50,7 @@ Projeto do zero à visualização final: consumo direto da API pública do IBGE 
 
 🔹 **Análise de Eficiência de Despesas Governamentais** *Python • Pandas • Criação de KPIs*  
 Desenvolvimento de indicadores próprios (Taxa de Liquidação, Taxa de Pagamento) para avaliar eficiência orçamentária de órgãos públicos, além de tratamento de dados com inconsistências reais de formatação e outliers.  
-🔗 [Ver Repositório](https://github.com/CarlosEduardo-J/ANALISE-ORGAO)
+🔗 [Ver Repositório](https://github.com/CarlosEduardo-J/analise-despesas-governamentais-python)
 
 🔹 **Análise de Dados de E-commerce** *Python • Pandas • EDA*  
 Limpeza e análise do comportamento de vendas, segmentação de clientes e evolução da receita.  
@@ -104,29 +104,4 @@ Análise de lucro, margens e tendências por região, categoria e período tempo
 
 ### Análise & Visualização de Dados
 <p align="left">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-31363B?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-44484C?style=for-the-badge&logo=seaborn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-</p>
-
----
-
-## 🎯 Objetivo de Carreira
-
-Busco oportunidades como **Estagiário ou Analista de Dados Júnior**, onde eu possa aplicar rigor analítico para gerar valor real e contínuo para a organização.
-
----
-
-## 🔗 Vamos nos conectar?
-
-- [LinkedIn](https://www.linkedin.com/in/carloseduardojaquis/)
-- [E-mail](mailto:carlos.jaquis.tech@gmail.com)
-
----
-
-<p align="center">
-  Feito com ❤️ por CarlosEduardo-J
-</p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&lo
