@@ -48,6 +48,10 @@ Projeto do zero à visualização final: consumo direto da API pública do IBGE 
 
 ### 🐍 Python — Análise de Dados
 
+🔹 **Análise de Eficiência de Despesas Governamentais** *Python • Pandas • Criação de KPIs*  
+Desenvolvimento de indicadores próprios (Taxa de Liquidação, Taxa de Pagamento) para avaliar eficiência orçamentária de órgãos públicos, além de tratamento de dados com inconsistências reais de formatação e outliers.  
+🔗 [Ver Repositório](https://github.com/CarlosEduardo-J/ANALISE-ORGAO)
+
 🔹 **Análise de Dados de E-commerce** *Python • Pandas • EDA*  
 Limpeza e análise do comportamento de vendas, segmentação de clientes e evolução da receita.  
 🔗 [Ver Repositório](https://github.com/CarlosEduardo-J/analise-ecommerce)
@@ -55,10 +59,6 @@ Limpeza e análise do comportamento de vendas, segmentação de clientes e evolu
 🔹 **Análise de Correlação de Filmes** *Python • Pandas • Data Analysis*  
 Identificação de padrões e correlações entre diferentes variáveis que impactam o sucesso e a receita de filmes.  
 🔗 [Ver Repositório](https://github.com/CarlosEduardo-J/movie-data-analysis)
-
-🔹 **Análise de Despesas Governamentais** *Python • Dados Públicos • Transparência*  
-Análise detalhada de gastos públicos e categorização de despesas para maior transparência.  
-🔗 [Ver Repositório](https://github.com/CarlosEduardo-J/analise-despesas-governamentais)
 
 ---
 
