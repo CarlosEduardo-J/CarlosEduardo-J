@@ -46,6 +46,14 @@ Projeto do zero à visualização final: consumo direto da API pública do IBGE 
 
 ## 📂 Outros Projetos
 
+### 🔄 Pipeline Completo (Python + SQL + Power BI)
+
+🔹 **Análise de Ações da B3 (2023-2024)** *Python • SQL • Power BI • Pipeline Completo*  
+Pipeline de dados ponta a ponta: coleta via yfinance, tratamento com Pandas, análise exploratória em MySQL e dashboard interativo no Power BI (design prototipado no Figma) — único projeto do portfólio que integra as três ferramentas num fluxo único.  
+🔗 [Ver Repositório](https://github.com/CarlosEduardo-J/analise-acoes-b3-powerbi)
+
+---
+
 ### 🐍 Python — Análise de Dados
 
 🔹 **Análise de Eficiência de Despesas Governamentais** *Python • Pandas • Criação de KPIs*  
