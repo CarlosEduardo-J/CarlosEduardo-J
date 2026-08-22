@@ -60,14 +60,6 @@ Pipeline de dados ponta a ponta: coleta via yfinance, tratamento com Pandas, an�
 Desenvolvimento de indicadores próprios (Taxa de Liquidação, Taxa de Pagamento) para avaliar eficiência orçamentária de órgãos públicos, além de tratamento de dados com inconsistências reais de formatação e outliers.  
 🔗 [Ver Repositório](https://github.com/CarlosEduardo-J/analise-despesas-governamentais-python)
 
-🔹 **Análise de Dados de E-commerce** *Python • Pandas • EDA*  
-Limpeza e análise do comportamento de vendas, segmentação de clientes e evolução da receita.  
-🔗 [Ver Repositório](https://github.com/CarlosEduardo-J/analise-ecommerce)
-
-🔹 **Análise de Correlação de Filmes** *Python • Pandas • Data Analysis*  
-Identificação de padrões e correlações entre diferentes variáveis que impactam o sucesso e a receita de filmes.  
-🔗 [Ver Repositório](https://github.com/CarlosEduardo-J/movie-data-analysis)
-
 ---
 
 ### 🗄️ SQL — Análise de Dados
@@ -80,10 +72,6 @@ Análise exploratória de dados de vendas, logística e comportamento de cliente
 Padronização de dados globais, tratamento de valores nulos e análise de insights utilizando **CTEs e Window Functions**.  
 🔗 [Ver Repositório](https://github.com/CarlosEduardo-J/sql-layoffs-cleaning-and-eda)
 
-🔹 **Análise de Marketing com SQL** *SQL • Marketing Analytics • KPIs*  
-Consultas focadas em performance de campanhas, engajamento e taxas de conversão.  
-🔗 [Ver Repositório](https://github.com/CarlosEduardo-J/analise-marketing-sql)
-
 ---
 
 ### 📊 Power BI — Dashboards
@@ -91,14 +79,6 @@ Consultas focadas em performance de campanhas, engajamento e taxas de conversão
 🔹 **Dashboard de People Analytics** *Power BI • Analytics • Métricas de RH*  
 Desenvolvimento de painel para análise estratégica de gestão de pessoas, cobrindo indicadores como turnover, absenteísmo e perfil demográfico.  
 🔗 [Ver Repositório](https://github.com/CarlosEduardo-J/dashboard-people-analytics)
-
-🔹 **Dashboard de Análise do Catálogo Netflix** *UI Design (Figma) • Data Modeling • ETL*  
-Painel com layout personalizado desenvolvido no Figma, focado na análise volumétrica, classificação indicativa e evolução histórica por décadas do catálogo.  
-🔗 [Ver Repositório](https://github.com/CarlosEduardo-J/netflix-catalog-analysis)
-
-🔹 **Dashboard de Vendas (SuperStore)** *Storytelling • KPIs de Performance*  
-Análise de lucro, margens e tendências por região, categoria e período temporal.  
-🔗 [Ver Repositório](https://github.com/CarlosEduardo-J/dashboard-vendas-power-bi)
 
 ---
 
