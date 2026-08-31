@@ -31,7 +31,7 @@
 
 ---
 
-## ⭐ Projeto em Destaque
+## ⭐ Projetos em Destaque
 
 ### 📍 PIB per Capita dos Municípios do Paraná — Consumo de API + Análise Geoespacial
 *Python • API do IBGE • Pandas • Plotly • Mapas Coropléticos*
@@ -41,6 +41,17 @@ Projeto do zero à visualização final: consumo direto da API pública do IBGE 
 **Principal achado:** Maringá caiu do 31º para o 100º lugar no ranking estadual de PIB per capita entre 2012 e 2021 — mesmo crescendo 67% no período. Os municípios vizinhos cresceram 143% no mesmo intervalo, revelando um processo de aproximação econômica regional.
 
 🔗 [Ver Repositório](https://github.com/CarlosEduardo-J/analise-pib-per-capita-pr)
+
+---
+
+### 📈 Mercado de Trabalho Formal no Paraná — Novo CAGED
+*Power BI • Power Query • DAX • Figma*
+
+Dashboard analisando a evolução do saldo de empregos formais no Paraná ao longo de 13 meses, com ingestão automatizada de boletins mensais públicos do Novo CAGED, modelagem em esquema estrela e layout prototipado no Figma antes da implementação.
+
+**Principal achado:** dezembro/2025 foi o único mês com saldo negativo do período (-51 mil vagas), efeito sazonal de fim de ano — o setor de Serviços liderou disparado a geração de vagas, respondendo por mais que o dobro do segundo colocado.
+
+🔗 [Ver Repositório](https://github.com/CarlosEduardo-J/analise-mercado-trabalho-caged-pr)
 
 ---
 
