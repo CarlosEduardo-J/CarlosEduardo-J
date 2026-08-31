@@ -85,14 +85,6 @@ Padronização de dados globais, tratamento de valores nulos e análise de insig
 
 ---
 
-### 📊 Power BI — Dashboards
-
-🔹 **Dashboard de People Analytics** *Power BI • Analytics • Métricas de RH*  
-Desenvolvimento de painel para análise estratégica de gestão de pessoas, cobrindo indicadores como turnover, absenteísmo e perfil demográfico.  
-🔗 [Ver Repositório](https://github.com/CarlosEduardo-J/dashboard-people-analytics)
-
----
-
 ## 🛠️ Ferramentas & Tecnologias
 
 ### Linguagens & Bancos de Dados
