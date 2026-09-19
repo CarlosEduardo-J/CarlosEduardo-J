@@ -16,7 +16,7 @@
 ## 🧠 Desenvolvimento Técnico & Aprendizado
 
 - 📊 **Data Analytics** — Análise exploratória (EDA), definição de KPIs e métricas de negócio.  
-- 📐 **Estatística Aplicada** — Estatística descritiva, distribuições e fundamentos de testes A/B.  
+- 📐 **Estatística Aplicada** — Estatística descritiva e distribuições.  
 - 🧹 **Data Cleaning & Wrangling** — Tratamento de dados, gestão de outliers e integridade com Pandas.  
 - 🗄️ **SQL para Análise** — Queries avançadas focadas em extração de métricas e perguntas de negócio.  
 - 📈 **Data Visualization** — Dashboards interativos em Power BI e visualizações com **Matplotlib, Seaborn e Plotly**.  
