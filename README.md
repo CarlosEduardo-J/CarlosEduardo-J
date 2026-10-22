@@ -8,7 +8,7 @@
 
   <br/><br/>
 
-  <img src="https://raw.githubusercontent.com/CarlosEduardo-J/CarlosEduardo-J/main/assets/banner.svg"
+  <img src="https://raw.githubusercontent.com/CarlosEduardo-J/CarlosEduardo-J/main/banner.svg"
        alt="Transformando dados em decisões — Python, SQL e Power BI"
        width="100%"/>
 </div>
